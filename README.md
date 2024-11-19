@@ -21,15 +21,15 @@
 ## 📈 Stats & Activities
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iman-coder&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iman-coder&theme=radical" alt="GitHub Streak"/>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=iman-coder&theme=radical" alt="GitHub Streak"/>-->
 </p>
 
 ---
-
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacking Animation" width="400"/>
 </p>
-
+--?
 
 <!--
 **iman-coder/iman-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
