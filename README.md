@@ -1,4 +1,35 @@
 ## Hi there 👋
+<p align="center">
+  <a href="https://github.com/iman-coder">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+My+Profile!;iman-coder;Cybersecurity+%7C+PenTesting+%7C+Linux+Lover" alt="Typing SVG">
+  </a>
+</p>
+
+# The0bservant
+
+🔐 **Cybersecurity Enthusiast**  
+💻 **Passionate about Penetration Testing**  
+📖 **Learning Every Day on TryHackMe!**
+
+---
+
+## 🛡️ My TryHackMe Stats
+[![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2319727" style='border:none;'></iframe>)
+
+---
+
+## 📈 Stats & Activities
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iman-coder&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iman-coder&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacking Animation" width="400"/>
+</p>
+
 
 <!--
 **iman-coder/iman-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
