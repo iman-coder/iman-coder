@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# The0bservant
+# The0bzervant
 
 🔐 **Cybersecurity Enthusiast**  
 💻 **Passionate about Penetration Testing**  
