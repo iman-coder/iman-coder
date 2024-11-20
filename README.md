@@ -14,7 +14,9 @@
 ---
 
 ## 🛡️ My TryHackMe Stats
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/7Xb10.png)](https://tryhackme.com/p/{7Xb10})
+<p align="center">
+  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/7Xb10.png)](https://tryhackme.com/p/{7Xb10})
+</p>
 
 ---
 
