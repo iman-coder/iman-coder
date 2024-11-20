@@ -17,14 +17,14 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/7Xb10.png)](https://tryhackme.com/p/{7Xb10})
 
 ---
-<!--
+
 ## 📈 Stats & Activities
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iman-coder&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=iman-coder&theme=radical" alt="GitHub Streak"/>-->
 </p>
 
---- -->
+--- 
 <!--
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacking Animation" width="400"/>
