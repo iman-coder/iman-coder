@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# The0bzervant
+# <img src="animated-name.svg" />
 
 🔐 **Cybersecurity Enthusiast**  
 💻 **Passionate about Penetration Testing**  
