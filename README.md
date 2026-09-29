@@ -82,7 +82,7 @@ $ cat about.txt
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iman-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iman-coder&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!--<img src="https://streak-stats.demolab.com/?user=iman-coder&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
 </p>
 
 ---
