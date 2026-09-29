@@ -78,7 +78,7 @@ $ cat about.txt
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 <p align="center">
   <!--<img height="170" src="https://github-stats-extended.vercel.app/api?username=iman-coder&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />-->
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iman-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
